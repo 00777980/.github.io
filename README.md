@@ -2,16 +2,20 @@
 
 PROJECTS
 
-Following Projects Link: 
+
 Autonomous Braking System For FSAE Driverless Vehicle (MATLAB/Simulink)
 - Designed and validated Wheel Slip controller.
+- Link: https://www.dropbox.com/scl/fo/229uiuzivgfuvmmkj3n1v/AB0W7VL0OEeqt7wkk_AK-uk?rlkey=nqx49lsl0uxdis2ozvzehv7s0&st=5kxmyi3v&dl=0
 
 PV-Based DC Microgrid with MPPT and Bidirectional Power Flow Control (MATLAB/Simulink)
-- Developed MPPT algorithm.
-- Project: 
+- Developed MPPT algorithm with INC and Global Sweep, tested under varied steady irradiance. 
+- Link: https://www.dropbox.com/scl/fo/93oxx3hjjnns5mdzbppbp/AMkFtr6lV92GlEBPhT5SPhQ?rlkey=rzvd0arwaz6xr7o7c4fypkqrq&st=zwbxid8p&dl=0
 
 PEM Fuel Cell Oxygen Starvation Control and Performance Analysis (MATLAB/Simulink)
 - Developed multiple gas control strategies
+- Link: https://www.dropbox.com/scl/fo/u9iah8aqxlbg3c9wx9lxt/AEmv_4GgcmEb_YaCon6QLEc?rlkey=vjq13175ppiywa6pxhwum2i9r&st=9mbgadqu&dl=0
+
+
 
 
 Automated Colour and Shape Sorting System (LabVIEW/NI DAQ)
