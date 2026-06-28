@@ -27,7 +27,7 @@ Fall Detection System Using Machine Learning
 - Link to short demo video: https://liveswinburneeduau-my.sharepoint.com/:p:/r/personal/103162631_student_swin_edu_au/Documents/InnovationPresentation.pptx?d=wd43f4e46f48b4be58ff28b93e7a02883&csf=1&web=1&e=9pAzga
 
 Embedded Weather Monitoring and Alarm System
-- Developed a configurabel alarm functions for abnormal environmental conditions on Arduino Uno board.
+- Developed a configurabel alarm functions for abnormal environmental conditions on Arduino board.
 - Link : https://github.com/LeFlippers/ENG20009-SDI12-Group-4/blob/main/Final%20code
 
 Machine Learning Applications for Classification Problems
